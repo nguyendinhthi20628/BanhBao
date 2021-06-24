@@ -1,5 +1,5 @@
 {
-  "linkResource": "https://dl.bthewinter.club/banh2/",
-  "linkCheck": "https://services.bthewinter.club/api/transaction/fetch",
+  "linkResource": "https://dl.apibarbarian.xyz/banh2/",
+  "linkCheck": "https://services.apibarbarian.xyz/api/transaction/fetch",
   "isCheckTimeZone": 1
 }
