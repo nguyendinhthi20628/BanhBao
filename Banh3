@@ -1,0 +1,5 @@
+{
+  "linkResource": "https://dl.bragapi.xyz/banh3/",
+  "linkCheck": "https://services.bragapi.xyz/api/transaction/fetch",
+  "isCheckTimeZone": 1
+}
